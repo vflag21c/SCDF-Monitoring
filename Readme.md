@@ -6,7 +6,7 @@
 
 ### TASK 등록 ( Batch Application )
 
- - 개발 완료된 Batch Application 을 Task 단위로 배포 가능하다
+ - 개발 완료된 Batch Application 을 Task 단위로 배포가 가능하다
 
 ![img_6.png](img_6.png)
 
@@ -20,9 +20,20 @@
 
 ### List
 
+- `TASK`, `JOB` 별 목록 및 히스토리를 제공하며, Job 내부의 Step 목록을 확인 할 수 있다
+
+![img_13.png](img_13.png)
+![img_11.png](img_11.png)
+![img_12.png](img_12.png)
+
 
 ### 상세 정보
 
+ - Job Executions 상세 페이지를 통해 실행된 Job 의 파라미터, 실행정보, Step 별 수행 정보 등을 확인 할 수 있음
+ - Step 별 Read, write 수 등의 세부 Count 및 총 집계 정보를 확인 할 수 있음
+
+![img_10.png](img_10.png)
+![img_9.png](img_9.png)
 
 ### Log
 
